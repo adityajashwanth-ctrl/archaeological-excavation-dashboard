@@ -1,0 +1,2 @@
+# Optional dependency for the Jupyter / Google Colab interface
+ipywidgets>=8.0
